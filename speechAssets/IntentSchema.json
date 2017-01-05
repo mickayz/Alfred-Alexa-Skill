@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "Start"
+    },
+    {
+      "intent": "Get"
+    },
+    {
+      "intent": "No"
+    },
+    {
+      "intent": "Reboot"
+    },
+    {
+      "intent": "FBEvents",
+      "slots": [
+        {
+          "name": "day",
+          "type": "AMAZON.DATE"
+        }
+      ]
+    }
+  ]
+}

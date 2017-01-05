@@ -1,0 +1,16 @@
+Start get speed
+Start get my speed
+Start speed test
+Start start speed test
+Start scan
+Get yes
+No no
+Reboot reboot
+Reboot boot
+FBEvents events
+FBEvents facebook events
+FBEvents events on facebook
+FBEvents events on {day}
+FBEvents events for {day}
+FBEvents for my events {day}
+
